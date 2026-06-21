@@ -1,0 +1,324 @@
+{
+  "business": {
+    "name": "Tip Top Pest Control Dallas",
+    "shortName": "Tip Top Pest Control",
+    "tagline": "Dallas’s Trusted Pest Defense – Safe, Fast & Effective",
+    "niche": "Pest Control",
+    "phone": "(214) 341-1498",
+    "address": "9530 Forest View St, Dallas, TX 75243",
+    "city": "Dallas, TX",
+    "hours": "Mon–Fri: 8 AM – 6 PM | Sat: 9 AM – 1 PM | Sun: Closed",
+    "ctaLabel": "Get Your Free Inspection",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Tip Top Pest Control Dallas | #1 Pest Exterminator in Dallas, TX",
+    "description": "Tip Top Pest Control Dallas offers expert pest extermination for homes & businesses. Safe, eco-friendly & guaranteed. Call (214) 341-1498 for a free quote."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Proudly Serving Dallas, TX",
+      "headline": "Your Home, Fortified Against Pests",
+      "subheadline": "Family-owned, eco-friendly pest control that delivers results. From ants to rodents, we keep Dallas pest-free.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Learn More"
+    },
+    "stats": [
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "5,000+",
+        "label": "Homes Protected"
+      },
+      {
+        "value": "5.0",
+        "label": "Star Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Eco-Friendly Approach",
+        "title": "Safe for Your Family, Tough on Pests",
+        "body": "We use green-certified treatments that eliminate pests without harming your loved ones or pets. Our low-toxicity solutions are effective against even the most stubborn infestations.",
+        "bullets": [
+          "Pet and child-safe products",
+          "No harsh chemical residues",
+          "Targeted application to minimize waste"
+        ],
+        "reverse": false,
+        "cardLabel": "Peace of Mind",
+        "cardTitle": "Eco-Friendly Guarantee",
+        "cardBody": "Our treatments are EPA-registered and applied with precision, ensuring your home stays safe and pest-free."
+      },
+      {
+        "eyebrow": "Comprehensive Service",
+        "title": "Full-Cycle Pest Management",
+        "body": "From inspection to prevention, we cover every step. Our technicians identify entry points, treat active infestations, and seal your home against future invaders.",
+        "bullets": [
+          "Thorough property inspection",
+          "Customized treatment plans",
+          "Preventive sealing & exclusion"
+        ],
+        "reverse": true,
+        "cardLabel": "Total Coverage",
+        "cardTitle": "Year-Round Protection",
+        "cardBody": "Our maintenance plans keep pests away all year, with quarterly visits and 24/7 emergency support."
+      }
+    ],
+    "whyTitle": "Why Dallas Homeowners Choose Us",
+    "whyChooseUs": [
+      {
+        "title": "Locally Owned & Operated",
+        "description": "We’re part of the Dallas community. Our team understands local pest patterns and tailors treatments accordingly."
+      },
+      {
+        "title": "Fast Response Times",
+        "description": "We offer same-day service for urgent infestations. Most calls are answered within 24 hours."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden fees, no surprise charges. You get a clear quote upfront, and we stick to it."
+      },
+      {
+        "title": "Satisfaction Guarantee",
+        "description": "If pests return between treatments, we come back free of charge. Your peace of mind is our priority."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Tip Top Pest Control was prompt, professional, and thorough. They explained everything and the results were immediate. Highly recommend!",
+        "author": "Jennifer L.",
+        "role": "Lake Highlands Homeowner"
+      },
+      {
+        "quote": "I’ve tried several pest companies, but Tip Top is by far the best. They solved our ant problem in one visit and the follow-up was excellent.",
+        "author": "Michael R.",
+        "role": "Preston Hollow Resident"
+      },
+      {
+        "quote": "Very impressed with their eco-friendly approach. We have pets and kids, and I felt completely safe. Great service at a fair price.",
+        "author": "Amanda T.",
+        "role": "Oak Lawn Homeowner"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Reclaim Your Home from Pests?",
+      "subheadline": "Schedule your free inspection today and get the protection you deserve.",
+      "primaryCta": "Call (214) 341-1498",
+      "secondaryCta": "Get a Free Quote"
+    }
+  },
+  "servicesPage": {
+    "intro": "At Tip Top Pest Control Dallas, we provide comprehensive pest management tailored to your property. Whether you need one-time elimination or year-round protection, our certified technicians deliver safe, effective solutions."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "General Pest Control",
+      "shortDescription": "Eliminate common household pests like ants, spiders, roaches, and silverfish with our targeted treatments.",
+      "longDescription": "Our general pest control service addresses a wide range of insects and arachnids that invade Dallas homes. We use a combination of interior and exterior treatments to break the pest lifecycle and prevent re-infestation.",
+      "benefits": [
+        "Covers ants, spiders, roaches, silverfish, and more",
+        "Low-odor, pet-safe formulas",
+        "Includes preventive barrier around your home"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We thoroughly inspect your home to identify pest activity and entry points."
+        },
+        {
+          "title": "Treatment",
+          "description": "We apply targeted treatments to affected areas and create a protective perimeter."
+        },
+        {
+          "title": "Prevention",
+          "description": "We seal cracks and provide tips to keep pests out long-term."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does treatment take?",
+          "answer": "Most general pest treatments take 30–45 minutes, depending on home size."
+        },
+        {
+          "question": "Is it safe for pets?",
+          "answer": "Yes, we use pet-safe products. We recommend keeping pets away until treated areas dry."
+        }
+      ],
+      "slug": "general-pest-control"
+    },
+    {
+      "icon": "02",
+      "title": "Rodent Control",
+      "shortDescription": "Humanely remove rats and mice and seal entry points to prevent future infestations.",
+      "longDescription": "Rodents can cause significant damage and health risks. Our rodent control service includes trapping, exclusion, and sanitation to fully resolve the problem and keep rodents out for good.",
+      "benefits": [
+        "Humane trapping and removal",
+        "Comprehensive exclusion – sealing holes & gaps",
+        "Sanitation and cleanup of droppings/nests"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We locate rodent entry points, nests, and high-traffic areas."
+        },
+        {
+          "title": "Exclusion",
+          "description": "We seal all potential entry points with durable materials."
+        },
+        {
+          "title": "Monitoring",
+          "description": "We set traps and monitor activity until the infestation is gone."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does rodent control take?",
+          "answer": "Initial exclusion may take a few hours; full elimination usually within 1–2 weeks."
+        },
+        {
+          "question": "Do you use poison?",
+          "answer": "We prefer non-toxic methods. Poison is only used as a last resort and with safety measures."
+        }
+      ],
+      "slug": "rodent-control"
+    },
+    {
+      "icon": "03",
+      "title": "Termite Control",
+      "shortDescription": "Protect your property from silent destroyers with advanced termite detection and treatment.",
+      "longDescription": "Termites cause billions in damage annually. Our termite control includes thorough inspections, liquid treatments, and bait systems to eliminate colonies and safeguard your home’s structure.",
+      "benefits": [
+        "Advanced detection technology",
+        "Liquid barrier and bait station options",
+        "Warranty-backed protection plans"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We use moisture meters and infrared to detect termite activity behind walls."
+        },
+        {
+          "title": "Treatment",
+          "description": "We apply a liquid barrier or install bait stations to eliminate the colony."
+        },
+        {
+          "title": "Monitoring",
+          "description": "We schedule regular checks to ensure no new activity."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How do I know if I have termites?",
+          "answer": "Signs include mud tubes, hollow-sounding wood, and discarded wings. We offer free inspections."
+        },
+        {
+          "question": "Is termite treatment safe for my family?",
+          "answer": "Yes, we use EPA-approved products that are safe when applied by professionals."
+        }
+      ],
+      "slug": "termite-control"
+    },
+    {
+      "icon": "04",
+      "title": "Bed Bug Treatment",
+      "shortDescription": "Fast, discreet bed bug elimination using heat and chemical treatments for total eradication.",
+      "longDescription": "Bed bugs are notoriously difficult to remove. Our multi-pronged approach combines heat treatment, steam, and targeted insecticides to kill bed bugs at all life stages, including eggs.",
+      "benefits": [
+        "Heat treatment kills bugs without chemicals",
+        "Thorough inspection of mattresses, furniture, and crevices",
+        "Follow-up visits to ensure complete eradication"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We use canine or visual inspection to locate all infested areas."
+        },
+        {
+          "title": "Treatment",
+          "description": "We apply heat (120°F+) and/or chemical treatment to affected zones."
+        },
+        {
+          "title": "Verification",
+          "description": "We return after 2 weeks to confirm no re-infestation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How many treatments are needed?",
+          "answer": "Most infestations require 1–2 treatments, with a follow-up inspection."
+        },
+        {
+          "question": "Do I need to leave during treatment?",
+          "answer": "For heat treatment, yes – we recommend vacating for 4–6 hours. Chemical treatment may allow you to stay."
+        }
+      ],
+      "slug": "bed-bug-treatment"
+    }
+  ],
+  "about": {
+    "headline": "Dallas’s Trusted Pest Control Team Since 2009",
+    "mission": "To protect Dallas homes and businesses from pests using safe, effective, and environmentally responsible methods, while delivering exceptional customer service.",
+    "story": [
+      "Tip Top Pest Control Dallas was founded by a team of local pest experts who saw a need for honest, reliable service in the area. Starting with a single truck and a commitment to quality, we grew through word-of-mouth referrals from satisfied customers. Today, we serve thousands of properties across Dallas, from historic homes in Oak Lawn to new builds in Lake Highlands.",
+      "Our team stays up-to-date with the latest pest control innovations, attending regular training and earning certifications. We believe in treating every home like our own – with respect, thoroughness, and a focus on long-term solutions. When you call Tip Top, you get a neighbor who cares."
+    ],
+    "highlight": {
+      "stat": "5.0",
+      "label": "Average Rating from 200+ Reviews"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We do what we say. No upselling, no shortcuts – just honest work."
+      },
+      {
+        "title": "Safety First",
+        "description": "Every product and method is chosen with your family’s health in mind."
+      },
+      {
+        "title": "Excellence",
+        "description": "We continuously improve our skills and services to exceed expectations."
+      },
+      {
+        "title": "Community",
+        "description": "We support local causes and treat every customer as a neighbor."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with Tip Top Pest Control Dallas",
+    "subheadline": "Ready to solve your pest problem? Call us or fill out the form for a free, no-obligation quote.",
+    "primaryCta": "Call (214) 341-1498",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Lake Highlands",
+      "Preston Hollow",
+      "Oak Lawn",
+      "Highland Park",
+      "University Park",
+      "East Dallas",
+      "North Dallas"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Pest Control",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2143411498",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
